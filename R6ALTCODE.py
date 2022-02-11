@@ -86,7 +86,7 @@ def selection(lines,count,ubiPath,iniPath):
     return accinfo
 
 configFile = os.getcwd()
-configFile = configFile + "\R6ALT PATHS"
+configFile = configFile + "\R6ALT PATHS.txt"
 print(configFile)
 
 configLines = []
